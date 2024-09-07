@@ -1,0 +1,15 @@
+/* assets/custom.css */
+
+body {
+    background-color: #f7f7f7;
+}
+
+.stAlert {
+    background-color: #007acc;
+    color: white;
+    border-radius: 8px;
+}
+
+.stSidebar {
+    background-color: #f2f2f2;
+}

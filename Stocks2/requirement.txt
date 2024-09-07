@@ -1,0 +1,10 @@
+streamlit
+yfinance
+matplotlib
+pandas
+
+
+
+
+Since you're using Streamlit, you don't need HTML or CSS for most of the web design and layout, 
+as Streamlit provides its own set of UI components that can be used directly in Python.
